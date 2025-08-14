@@ -9,9 +9,5 @@ env/
 # Data folder (large CSVs)
 data/*.csv
 
-# Models (pickle/joblib files)
-model/*.pkl
-model/*.joblib
-
 # VS Code settings (optional)
 .vscode/
