@@ -42,4 +42,5 @@ docker-compose up --build
 ```
 ## Deployment
 FastAPI backend: [https://diabetes-detection-api.onrender.com/docs](https://diabetes-detection-frontend.onrender.com/docs)
+
 Streamlit frontend: [https://diabetes-detection-frontend.onrender.com](https://diabetes-detection-frontend.streamlit.app/)
