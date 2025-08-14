@@ -6,3 +6,6 @@ numpy
 pydantic
 httpx
 pandas
+streamlit
+requests
+
